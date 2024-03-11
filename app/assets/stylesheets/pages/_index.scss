@@ -1,2 +1,34 @@
-// Import page-specific CSS files here.
-@import "home";
+
+.btn-ghost {
+  color: #4A4A4A;
+  border: 1px solid #4A4A4A;
+  padding: 8px 24px;
+  border-radius: 50px;
+  font-weight: lighter;
+  opacity: 0.6;
+  transition: opacity 0.3s ease;
+}
+
+.btn-ghost:hover {
+  opacity: 1;
+  border: 1px solid #4A4A4A;
+
+}
+
+.bottom {
+  text-align: center;
+}
+
+.list-group-item {
+  width: 600px;
+}
+
+.cards {
+  align-items: center;
+}
+
+.category {
+  text-decoration: none;
+  padding-left: 10px;
+  color: #4A4A4A;
+}

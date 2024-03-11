@@ -1,0 +1,24 @@
+=> 
+{[31m[1m"[0m[31masset_id[0m[31m[1m"[0m=>[31m[1m"[0m[31m45ac95209c14a5829db88fa056afc1fb[0m[31m[1m"[0m,
+ [31m[1m"[0m[31mpublic_id[0m[31m[1m"[0m=>[31m[1m"[0m[31mp6kg7lmyue4lwbsiqohx[0m[31m[1m"[0m,
+ [31m[1m"[0m[31mversion[0m[31m[1m"[0m=>[34m[1m1709895934[0m,
+ [31m[1m"[0m[31mversion_id[0m[31m[1m"[0m=>[31m[1m"[0m[31md4728d3fa53e3d3e2052c8fb1750f644[0m[31m[1m"[0m,
+ [31m[1m"[0m[31msignature[0m[31m[1m"[0m=>
+  [31m[1m"[0m[31mb1f709a65dbd70beb6aef2ce6fede8075ce01823[0m[31m[1m"[0m,
+ [31m[1m"[0m[31mwidth[0m[31m[1m"[0m=>[34m[1m1024[0m,
+ [31m[1m"[0m[31mheight[0m[31m[1m"[0m=>[34m[1m683[0m,
+ [31m[1m"[0m[31mformat[0m[31m[1m"[0m=>[31m[1m"[0m[31mjpg[0m[31m[1m"[0m,
+ [31m[1m"[0m[31mresource_type[0m[31m[1m"[0m=>[31m[1m"[0m[31mimage[0m[31m[1m"[0m,
+ [31m[1m"[0m[31mcreated_at[0m[31m[1m"[0m=>[31m[1m"[0m[31m2024-03-08T11:05:34Z[0m[31m[1m"[0m,
+ [31m[1m"[0m[31mtags[0m[31m[1m"[0m=>[],
+ [31m[1m"[0m[31mbytes[0m[31m[1m"[0m=>[34m[1m209548[0m,
+ [31m[1m"[0m[31mtype[0m[31m[1m"[0m=>[31m[1m"[0m[31mupload[0m[31m[1m"[0m,
+ [31m[1m"[0m[31metag[0m[31m[1m"[0m=>[31m[1m"[0m[31md62ba6e94266fd110bb98cbe10220794[0m[31m[1m"[0m,
+ [31m[1m"[0m[31mplaceholder[0m[31m[1m"[0m=>[36m[1mfalse[0m,
+ [31m[1m"[0m[31murl[0m[31m[1m"[0m=>
+  [31m[1m"[0m[31mhttp://res.cloudinary.com/drwv79mdc/image/upload/v1709895934/p6kg7lmyue4lwbsiqohx.jpg[0m[31m[1m"[0m,
+ [31m[1m"[0m[31msecure_url[0m[31m[1m"[0m=>
+  [31m[1m"[0m[31mhttps://res.cloudinary.com/drwv79mdc/image/upload/v1709895934/p6kg7lmyue4lwbsiqohx.jpg[0m[31m[1m"[0m,
+ [31m[1m"[0m[31mfolder[0m[31m[1m"[0m=>[31m[1m"[0m[31m[1m"[0m,
+ [31m[1m"[0m[31moriginal_filename[0m[31m[1m"[0m=>[31m[1m"[0m[31msan_francisco[0m[31m[1m"[0m,
+ [31m[1m"[0m[31mapi_key[0m[31m[1m"[0m=>[31m[1m"[0m[31m443542645422816[0m[31m[1m"[0m}

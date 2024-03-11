@@ -1,11 +1,16 @@
 <div class="container">
-  <h1>List</h1>
-    <ul class="list-group mb-3">
+  <h1 class="text-center m-4">🎞️ Movie List</h1>
+    <ul class="cards list-group mb-3">
       <% @lists.each do |list| %>
         <li class="list-group-item">
-           <%= link_to list.name, list_path(list) %>
+          <% if list.photo.attached? %>
+            <%= cl_image_tag list.photo.key, alt: "image", width: 200 %>
+          <% end %>
+          <%= link_to list.name, list_path(list), class: "category" %>
         </li>
       <% end %>
     </ul>
-    <%= link_to "Add a list", new_list_path %>
+    <div class="bottom">
+    <%= link_to "Add a list", new_list_path, class: "btn btn-ghost" %>
+    </div>
 </div>
